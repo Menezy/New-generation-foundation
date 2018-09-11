@@ -176,7 +176,7 @@
         <div class="row section-header bit-narrow" data-aos="fade-up">
             <div class="col-full">
                 <h3 class="subhead">ABOUT US</h3>
-                <h5 class="display-1">
+                <h5 class="display-1 text-center" >
                         New generation foundation is a non governmental organisation which is aimed at reducing violence in the north eastern region of Nigeria through influencing young ones positively with our visual content so that they will grow up to be non violent
                         thereby eliminating violence from the north eastern region
                 </h5>
@@ -196,7 +196,7 @@
         <div class="row section-header bit-narrow" data-aos="fade-up">
             <div class="col-full">
                 <h3 class="subhead">OUR MISSION</h3>
-                <h1 class="display-1">
+                <h1 class="display-1 text-center" >
                         Our mission is to reach out to young ones from ages 0-12 in the North eastern part of Nigeria and influence their thoughts with positivity and non violence through our 
                         visual contents which are cartoons transcribed in the indigenous languages.
                 </h1>
@@ -206,7 +206,7 @@
         <div class="row section-header bit-narrow" data-aos="fade-up" id="vision">
                 <div class="col-full">
                     <h3 class="subhead">OUR VISION</h3>
-                    <h1 class="display-1">
+                    <h1 class="display-1 text-center" >
                             To reach out to a large number of children in the north east in a short time with
 								 our visual contents so that violence can be cubbed at a very young age.
                     </h1>
@@ -235,7 +235,7 @@
                     <div class="item-folio">
                             
                         <div class="item-folio__thumb">
-                            <a href="images/children.jpg" class="thumb-link" title="Shutterbug" data-size="1050x700">
+                            <a href="images/children.jpg" class="thumb-link" title="" data-size="1050x700">
                                 <img src="images/children.jpg" 
                                      srcset="images/children.jpg 1x, images/children@2x.jpg 2x" alt="">
                             </a>
@@ -250,9 +250,7 @@
                             </p>
                         </div>
 
-                        <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                            <i class="icon-link"></i>
-                        </a>
+                        
 
                         <div class="item-folio__caption">
                             <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
@@ -265,7 +263,7 @@
                     <div class="item-folio">
                             
                         <div class="item-folio__thumb">
-                            <a href="images/northern_child.jpg" class="thumb-link" title="Woodcraft" data-size="1050x700">
+                            <a href="images/northern_child.jpg" class="thumb-link" title="" data-size="1050x700">
                                 <img src="images/northern_child.jpg" 
                                      srcset="images/northern_child.jpg 1x, images/northern_child@2x.jpg 2x" alt="">
                             </a>
@@ -293,9 +291,9 @@
                     <div class="item-folio">
                             
                         <div class="item-folio__thumb">
-                            <a href="images/child.jpg" class="thumb-link" title="The Beetle Car" data-size="1050x700">
+                            <a href="images/child.jpg" class="thumb-link" title="" data-size="1050x700">
                                 <img src="images/child.jpg"
-                                     srcset="images/young_boy.jpg 1x, images/young_boy@2x.jpg 2x" alt="">
+                                     srcset="images/child.jpg 1x, images/child@2x.jpg 2x" alt="">
                             </a>
                         </div>
 
@@ -321,24 +319,22 @@
                     <div class="item-folio">
                             
                         <div class="item-folio__thumb">
-                            <a href="images/young_boy.jpg" class="thumb-link" title="Grow Green" data-size="1050x700">
+                            <a href="images/young_boy.jpg" class="thumb-link" title="" data-size="1050x700">
                                 <img src="images/young_boy.jpg" 
-                                     srcset="images/child.jpg 1x, images/child@2x.jpg 2x" alt="">
+                                     srcset="images/young_boy.jpg 1x, images/young_boy@2x.jpg 2x" alt="">
                             </a>
                         </div>
 
                         <div class="item-folio__text">
                             <h3 class="item-folio__title">
-                                Salad
+                               
                             </h3>
                             <p class="item-folio__cat">
-                                Branding
+                              
                             </p>
                         </div>
 
-                        <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                            <i class="icon-link"></i>
-                        </a>
+                        
 
                         <div class="item-folio__caption">
                             <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
@@ -351,7 +347,7 @@
                     <div class="item-folio">
                             
                         <div class="item-folio__thumb">
-                            <a href="images/portfolio/gallery/g-lamp.jpg" class="thumb-link" title="Guitarist" data-size="1050x700">
+                            <a href="images/portfolio/gallery/g-lamp.jpg" class="thumb-link" title="" data-size="1050x700">
                                 <img src="images/portfolio/lamp.jpg" 
                                      srcset="images/portfolio/lamp.jpg 1x, images/portfolio/lamp@2x.jpg 2x" alt="">
                             </a>
@@ -359,16 +355,14 @@
 
                         <div class="item-folio__text">
                             <h3 class="item-folio__title">
-                                Lamp
+                                
                             </h3>
                             <p class="item-folio__cat">
-                                Web Design
+                                
                             </p>
                         </div>
 
-                        <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                            <i class="icon-link"></i>
-                        </a>
+                       
 
                         <div class="item-folio__caption">
                             <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
@@ -389,10 +383,10 @@
 
                         <div class="item-folio__text">
                             <h3 class="item-folio__title">
-                                Fuji
+                            
                             </h3>
                             <p class="item-folio__cat">
-                                Web Design
+                              
                             </p>
                         </div>
 
