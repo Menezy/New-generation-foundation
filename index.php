@@ -208,80 +208,8 @@
     </section> <!-- end s-services -->
 
 
-    <!-- works
-    ================================================== -->
-    <section id="works" class="s-works target-section">
-
-        <div class="row section-header has-bottom-sep narrow target-section" data-aos="fade-up">
-            <div class="col-full">
-                <h3 class="subhead">OUR PORTFOLIO</h3>
-                <h1 class="display-1">
-                We are recalibrating the mindset of North eastern Nigerian children  </div>
-        </div> <!-- end section-header -->
-
-        <div class="row masonry-wrap">
-
-            <div class="masonry">
     
-                <div class="masonry__brick" data-aos="fade-up">
-                    <div class="item-folio">
-                            
-                        <div class="item-folio__thumb">
-                            <a href="images/children.jpg" class="thumb-link" title="" data-size="1050x700">
-                                <img src="images/children.jpg" 
-                                     srcset="images/children.jpg 1x, images/children@2x.jpg 2x" alt="">
-                            </a>
-                        </div>
-
-                        <div class="item-folio__text">
-                            <h3 class="item-folio__title">
-                                Kids in north eastern Nigeria
-                            </h3>
-                            <p class="item-folio__cat">
-                                
-                            </p>
-                        </div>
-
-                        
-
-                        <div class="item-folio__caption">
-                            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                        </div>
-
-                    </div>
-                </div> <!-- end masonry__brick -->
-    
-                <div class="masonry__brick" data-aos="fade-up">
-                    <div class="item-folio">
-                            
-                        <div class="item-folio__thumb">
-                            <a href="images/northern_child.jpg" class="thumb-link" title="" data-size="1050x700">
-                    <!-- works
-    ================================================== -->
-    <section id="works" class="s-works target-section">
-
-        <div class="row section-header has-bottom-sep narrow target-section" data-aos="fade-up">
-            <div class="col-full">
-                <h3 class="subhead">OUR PORTFOLIO</h3>
-                <h1 class="display-1">
-                We are recalibrating the mindset of North eastern Nigerian children  </div>
-        </div> <!-- end section-header -->
-
-        <div class="row masonry-wrap">
-
-            <div class="masonry">
-    
-                <div class="masonry__brick" data-aos="fade-up">
-                    <div class="item-folio">
-                            
-                        <div class="item-folio__thumb">
-                            <a href="images/children.jpg" class="thumb-link" title="" data-size="1050x700">
-                                <img src="images/children.jpg" 
-                                     srcset="images/children.jpg 1x, images/children@2x.jpg 2x" alt="">
-                            </a>
-             
-                        
-
+                                     
                         
 
 
