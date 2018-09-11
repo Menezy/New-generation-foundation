@@ -256,150 +256,42 @@
                             
                         <div class="item-folio__thumb">
                             <a href="images/northern_child.jpg" class="thumb-link" title="" data-size="1050x700">
-                                <img src="images/northern_child.jpg" 
-                                     srcset="images/northern_child.jpg 1x, images/northern_child@2x.jpg 2x" alt="">
-                            </a>
-                        </div>
+                    <!-- works
+    ================================================== -->
+    <section id="works" class="s-works target-section">
 
-                        <div class="item-folio__text">
-                            <h3 class="item-folio__title">
-                                Northern child
-                            </h3>
-                            <p class="item-folio__cat">
-                               
-                            </p>
-                        </div>
+        <div class="row section-header has-bottom-sep narrow target-section" data-aos="fade-up">
+            <div class="col-full">
+                <h3 class="subhead">OUR PORTFOLIO</h3>
+                <h1 class="display-1">
+                We are recalibrating the mindset of North eastern Nigerian children  </div>
+        </div> <!-- end section-header -->
 
-        
+        <div class="row masonry-wrap">
 
-                        <div class="item-folio__caption">
-                            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                        </div>
-
-                    </div>
-                </div> <!-- end masonry__brick -->
-        
-                <div class="masonry__brick" data-aos="fade-up">
-                    <div class="item-folio">
-                            
-                        <div class="item-folio__thumb">
-                            <a href="images/child.jpg" class="thumb-link" title="" data-size="1050x700">
-                                <img src="images/child.jpg"
-                                     srcset="images/child.jpg 1x, images/child@2x.jpg 2x" alt="">
-                            </a>
-                        </div>
-
-                        <div class="item-folio__text">
-                            <h3 class="item-folio__title">
-                                
-                            </h3>
-                            <p class="item-folio__cat">
-                                
-                            </p>
-                        </div>
-
-                        
-
-                        <div class="item-folio__caption">
-                            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                        </div>
-
-                    </div>
-                </div> <!-- end masonry__brick -->
-        
-                <div class="masonry__brick" data-aos="fade-up">
-                    <div class="item-folio">
-                            
-                        <div class="item-folio__thumb">
-                            <a href="images/young_boy.jpg" class="thumb-link" title="" data-size="1050x700">
-                                <img src="images/young_boy.jpg" 
-                                     srcset="images/young_boy.jpg 1x, images/young_boy@2x.jpg 2x" alt="">
-                            </a>
-                        </div>
-
-                        <div class="item-folio__text">
-                            <h3 class="item-folio__title">
-                               
-                            </h3>
-                            <p class="item-folio__cat">
-                              
-                            </p>
-                        </div>
-
-                        
-
-                        <div class="item-folio__caption">
-                            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                        </div>
-
-                    </div>
-                </div> <!-- end masonry__brick -->
+            <div class="masonry">
     
                 <div class="masonry__brick" data-aos="fade-up">
                     <div class="item-folio">
                             
                         <div class="item-folio__thumb">
-                            <a href="images/young_boy.jpg" class="thumb-link" title="" data-size="1050x700">
-                                <img src="images/young_boy.jpg" 
-                                     srcset="images/young_boy.jpg 1x, images/young_boy@2x.jpg 2x" alt="">
+                            <a href="images/children.jpg" class="thumb-link" title="" data-size="1050x700">
+                                <img src="images/children.jpg" 
+                                     srcset="images/children.jpg 1x, images/children@2x.jpg 2x" alt="">
                             </a>
-                        </div>
+             
+                        
 
-                        <div class="item-folio__text">
-                            <h3 class="item-folio__title">
-                                
-                            </h3>
-                            <p class="item-folio__cat">
-                                
-                            </p>
-                        </div>
-
-                       
-
-                        <div class="item-folio__caption">
-                            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                        </div>
-
-                    </div>
-                </div> <!-- end masonry__brick -->
-        
-                <div class="masonry__brick" data-aos="fade-up">
-                    <div class="item-folio">
-                            
-                        <div class="item-folio__thumb">
-                            <a href="images/northern_child.jpg" class="thumb-link" title="" data-size="1050x700">
-                                <img src="images/northern_child.jpg"
-                                     srcset="images/northern_child.jpg 1x, images/northern_child@2x.jpg 2x" alt="">
-                            </a>
-                        </div>
-
-                        <div class="item-folio__text">
-                            <h3 class="item-folio__title">
-                            
-                            </h3>
-                            <p class="item-folio__cat">
-                              
-                            </p>
-                        </div>
-
-                        <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                            <i class="icon-link"></i>
-                        </a>
-
-                        <div class="item-folio__caption">
-                            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                        </div>
-
-                    </div>
-                </div> <!-- end masonry__brick -->
-    
-            </div> <!-- end masonry -->
-
-        </div> <!-- end masonry-wrap -->
-
-    </section> <!-- end s-works -->
+                        
 
 
+               
+
+                        
+
+                    
+
+                        
    
     <!-- testimonies
     ================================================== -->
