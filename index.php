@@ -156,10 +156,10 @@
         <div class="row section-header bit-narrow" data-aos="fade-up">
             <div class="col-full">
                 <h3 class="subhead">ABOUT US</h3>
-                <p class="display-1 text-center" >
+                <h5 class="display-1 text-center" >
                         New generation foundation is a non governmental organisation which is aimed at reducing violence in the north eastern region of Nigeria through influencing young ones positively with our visual content so that they will grow up to be non violent
                         thereby eliminating violence from the north eastern region
-                </p>
+                </h5>
             </div>
         </div> <!-- end section-header -->
 
@@ -176,20 +176,20 @@
         <div class="row section-header bit-narrow" data-aos="fade-up">
             <div class="col-full">
                 <h3 class="subhead">OUR MISSION</h3>
-                <p class="display-1 text-center" >
+                <h5 class="display-1 text-center" >
                         Our mission is to reach out to young ones from ages 0-12 in the North eastern part of Nigeria and influence their thoughts with positivity and non violence through our 
                         visual contents which are cartoons transcribed in the indigenous languages.
-                </p>
+                </h5>
             </div>
         </div> <!-- end section-header -->
 
         <div class="row section-header bit-narrow" data-aos="fade-up" id="vision">
                 <div class="col-full">
                     <h3 class="subhead">OUR VISION</h3>
-                    <p class="display-1 text-center" >
+                    <h5 class="display-1 text-center" >
                             To reach out to a large number of children in the north east in a short time with
 								 our visual contents so that violence can be cubbed at a very young age.
-                    </p>
+                    </h5>
                 </div>
             </div>
 
@@ -201,7 +201,7 @@
     ================================================== -->
     <section class="s-testimonials">
 
-	    <div class="testimonials__icon" data-aos="fade-up"><h3 class="text-white text-center">Testimonials</h3></div>
+	    <div class="testimonials__icon" data-aos="fade-up"></div>
 
         <div class="row testimonials narrow">
 
