@@ -59,7 +59,7 @@
                     <li><a class="smoothscroll"  href="#about" title="about">About us</a></li>
                     <li><a class="smoothscroll"  href="#mission" title="services">Our mission</a></li>
                     <li><a class="smoothscroll"  href="#vision" title="services">Our vision</a></li>
-                    <li><a class="smoothscroll"  href="#works" title="works">Our portfolio</a></li>
+                 
                     <li><a class="smoothscroll"  href="#contact" title="contact">Contact</a></li>
                 </ul>
     
