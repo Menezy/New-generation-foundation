@@ -57,13 +57,11 @@
                 <ul class="header-nav__list">
                     <li><a class="smoothscroll"  href="#home" title="home">Home</a></li>
                     <li><a class="smoothscroll"  href="#about" title="about">About us</a></li>
-                    <li><a class="smoothscroll"  href="#mission" title="services">Our mission</a></li>
-                    <li><a class="smoothscroll"  href="#vision" title="services">Our vision</a></li>
+                    <li><a class="smoothscroll"  href="#mission" title="mission">Our mission</a></li>
+                    <li><a class="smoothscroll"  href="#vision" title="vision">Our vision</a></li>
                  
                     <li><a class="smoothscroll"  href="#contact" title="contact">Contact</a></li>
                 </ul>
-    
-                <p>Perspiciatis hic praesentium nesciunt. Et neque a dolorum <a href='#0'>voluptatem</a> porro iusto sequi veritatis libero enim. Iusto id suscipit veritatis neque reprehenderit.</p>
     
                 <ul class="header-nav__social">
                     <li>
@@ -75,12 +73,7 @@
                     <li>
                         <a href="#0"><i class="fab fa-instagram"></i></a>
                     </li>
-                    <li>
-                        <a href="#0"><i class="fab fa-behance"></i></a>
-                    </li>
-                    <li>
-                        <a href="#0"><i class="fab fa-dribbble"></i></a>
-                    </li>
+                    
                 </ul>
 
             </div> <!-- end header-nav__content -->
@@ -150,12 +143,7 @@
             <li>
                 <a href="#0"><i class="fab fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
             </li>
-            <li>
-                <a href="#0"><i class="fab fa-behance" aria-hidden="true"></i><span>Behance</span></a>
-            </li>
-            <li>
-                <a href="#0"><i class="fab fa-dribbble" aria-hidden="true"></i><span>Dribbble</span></a>
-            </li>
+            
         </ul> <!-- end home-social -->
 
     </section> <!-- end s-home -->
