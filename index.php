@@ -339,9 +339,9 @@
                     <div class="item-folio">
                             
                         <div class="item-folio__thumb">
-                            <a href="images/portfolio/gallery/g-lamp.jpg" class="thumb-link" title="" data-size="1050x700">
-                                <img src="images/portfolio/lamp.jpg" 
-                                     srcset="images/portfolio/lamp.jpg 1x, images/portfolio/lamp@2x.jpg 2x" alt="">
+                            <a href="images/young_boy.jpg" class="thumb-link" title="" data-size="1050x700">
+                                <img src="images/young_boy.jpg" 
+                                     srcset="images/young_boy.jpg 1x, images/young_boy@2x.jpg 2x" alt="">
                             </a>
                         </div>
 
@@ -367,9 +367,9 @@
                     <div class="item-folio">
                             
                         <div class="item-folio__thumb">
-                            <a href="images/portfolio/gallery/g-fuji.jpg" class="thumb-link" title="Palmeira" data-size="1050x700">
-                                <img src="images/portfolio/fuji.jpg"
-                                     srcset="images/portfolio/fuji.jpg 1x, images/portfolio/fuji@2x.jpg 2x" alt="">
+                            <a href="images/northern_child.jpg" class="thumb-link" title="" data-size="1050x700">
+                                <img src="images/northern_child.jpg"
+                                     srcset="images/northern_child.jpg 1x, images/northern_child@2x.jpg 2x" alt="">
                             </a>
                         </div>
 
